@@ -1,7 +1,3 @@
-<p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=wngnl05&section=header&reversal=false&fontColor=black&textBg=false&descAlign=100&descAlignY=100" />
-</p>
-
 # Things I can do
 <table><tr><td valign="top" width="33%">
 
