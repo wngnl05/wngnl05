@@ -1,3 +1,5 @@
+<div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
+
 # Things I can do
 <table>
   <tr><td valign="top" width="33%">
@@ -14,16 +16,14 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div>
 
-</td>
-<td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### Cloud Computing
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
-</td>
-<td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### DevOps & DataBase  
 <div align="center">  
@@ -41,6 +41,6 @@
 <br>
 
 # My Status
-[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl05&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl05)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl-dev&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl-dev)
 
 </div>
