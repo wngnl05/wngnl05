@@ -1,6 +1,9 @@
-<div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
+<div align="center"
 
 # Things I can do
+
+<br>
+
 <table>
   <tr>
   <td valign="top" width="33%">
