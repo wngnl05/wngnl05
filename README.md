@@ -1,9 +1,12 @@
+<div style="background-color: white; padding: 20px;">
+
 # Things I can do
 <table>
-  <tr><td valign="top" width="33%">
+  <tr>
+  <td valign="top" width="33%">
 
 ### Language  
-<div align="center" backgroundColor="white">  
+<div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
@@ -14,14 +17,16 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 ### Cloud Computing
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 ### DevOps & DataBase  
 <div align="center">  
@@ -39,4 +44,6 @@
 <br>
 
 # My Status
-[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl-dev&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl-dev)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=wngnl05&show_icons=true&hide_border=true&count_private=true)](https://github.com/wngnl05)
+
+</div>
