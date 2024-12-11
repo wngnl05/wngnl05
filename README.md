@@ -1,10 +1,6 @@
-<div align="center"
-
 # Things I can do
-
 <table>
-  <tr>
-  <td valign="top" width="33%">
+  <tr><td valign="top" width="33%">
 
 ### Language  
 <div align="center">  
