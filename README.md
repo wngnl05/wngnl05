@@ -1,4 +1,4 @@
-<div style="background-color: white; padding: 20px;">
+<div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
 
 # Things I can do
 <table>
