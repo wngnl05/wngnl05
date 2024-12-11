@@ -2,8 +2,6 @@
 
 # Things I can do
 
-<br>
-
 <table>
   <tr>
   <td valign="top" width="33%">
