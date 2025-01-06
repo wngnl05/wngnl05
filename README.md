@@ -38,4 +38,9 @@
 
 </td></tr></table>  
 
+### My Project  
+<div align="center" style="margin-top: 20px;">
+  <a href="https://wngnl05.github.io/Encryption/" target="_blank" style="text-decoration: none; color: var(--black); font-size: 1.2rem;">
+    Visit My Encryption Project 🚀
+  </a>
 </div>
