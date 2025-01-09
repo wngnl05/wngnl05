@@ -40,7 +40,8 @@
 
 # My Project  
 ### [Portfolio](https://wngnl05.github.io/Portfolio/)
-### [TablodOrder 테이블에서 간편하게 주문을 할 수 있도록 도와줍니다](https://github.com/wngnl05/TableOrder)
-### [ToDoList 일정을 간단하게 리스트로 관리하세요](https://github.com/wngnl05/Calendar)
-### [환율 API를 사용하여 실시간 환율 데이터를 가져옵니다.](https://github.com/wngnl05/ExchangeRate)
-### [압축 파일 내부의 .js 파일만 추출하여 난독화/암호화 시켜 압축 파일로 반환합니다](https://github.com/wngnl05/Encryption)
+### [TablodOrder 키오스크 구현](https://github.com/wngnl05/TableOrder)
+### [ToDoList 달력](https://github.com/wngnl05/Calendar)
+### [상황에 맞게 이미지 크기 변환하여 사용하기](https://github.com/wngnl05/ImageResize)
+### [실시간 환율 변환기](https://github.com/wngnl05/ExchangeRate)
+### [압축 파일 내부의 .js 파일만 추출하여 난독화/암호화 하기](https://github.com/wngnl05/Encryption)
