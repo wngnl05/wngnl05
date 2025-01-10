@@ -42,6 +42,6 @@
 ### [Portfolio](https://wngnl05.github.io/Portfolio/)
 ### [TablodOrder 키오스크 구현](https://github.com/wngnl05/TableOrder)
 ### [ToDoList 달력](https://github.com/wngnl05/Calendar)
-### [상황에 맞게 이미지 크기 변환하여 사용하기](https://github.com/wngnl05/ImageResize)
+### [Image Resize API 만들기](https://github.com/wngnl05/ImageResize)
 ### [실시간 환율 변환기](https://github.com/wngnl05/ExchangeRate)
 ### [압축 파일 내부의 .js 파일만 추출하여 난독화/암호화 하기](https://github.com/wngnl05/Encryption)
